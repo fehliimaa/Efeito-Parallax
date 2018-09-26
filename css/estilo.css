@@ -78,7 +78,11 @@
 
 		#social img {
 			width: 38px;
-			opacity: 0.8;
+			opacity: 0.5;
+		}
+
+		#social img:hover {
+			opacity: 1
 		}
 
 		#menu {
